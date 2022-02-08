@@ -1,0 +1,19 @@
+{
+  "name": "package-protractor-helper-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/ramalhoes/package-protractor-helper-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramalhoes/package-protractor-helper-sample/issues"
+  },
+  "homepage": "https://github.com/ramalhoes/package-protractor-helper-sample#readme"
+}
